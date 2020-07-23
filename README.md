@@ -1,2 +1,2 @@
 # datascience
-Coursework related to data science.
+Coursework, projects, and samples of work related to data science.
